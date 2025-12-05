@@ -47,7 +47,7 @@ function App() {
       </div>
 
       <div className="mt-8">
-        <button className="bg-black text-white font-bold py-2 px-4 w-full rounded hover:bg-gray-600" onClick={navigateDashboard}>
+        <button className="bg-black text-white font-bold py-2 px-4 w-full rounded " onClick={navigateDashboard}>
           Login
         </button>
       </div>
